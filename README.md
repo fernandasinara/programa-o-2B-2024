@@ -11,7 +11,32 @@
 <img src="imagem/logo-açai png"alt="logomarca da loja"
 class=cabeçalho-imagem">
 <ul class="cabeçalho-lista">
-<li class="cabeçalho-lista-item>
+<li class="cabeçalho-lista-item> Sobre nos</li>
+<li class"cabeçalho-lista-item">lojas <li>
+</lu>
+</heather>
+<section id="sobre_nos">
+
+</section>
+
+<section id="lojas">
+
+</section>
+
+<footer class="rodape">
+
+</footer>
+</body>
+
+
+
+
+
+
+
+
+
+
 
 
 
