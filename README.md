@@ -50,9 +50,7 @@ class=cabeçalho-imagem">
     <section class="sobre_nos">
         <div class="sobre_nos-div-conteudo">
             <h2 class="sobre_nos-titulo">Sobre nós</h2>
-            <p class="sobre_nos-paragrafo">A loja Açaí
-                existe desde os anos 2000, trazendo o que é mais qualitativo sobre esses doces
-                deliciosos, que é um privilégio do Brasil.
+            <p class="sobre_nos-paragrafo">A loja imperial de doce, oferece uma variedade de doces deliciosos, brigadeiro,beijinho,bolos,tortas e muito mais.Com muita qualidade, ambiente higienizado e confortavel para os clientes se sentirem a vontade.tambem fazemos encomendas é só entrarem em contato conosco.
             </p>
             <p class="sobre_nos-paragrafo"> imperial de doces, classe A em atendimento,preço e variedade
             </p>
